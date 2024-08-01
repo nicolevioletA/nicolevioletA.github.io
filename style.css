@@ -1,0 +1,51 @@
+    body {
+  font-family: Arial, sans-serif;
+      background-color: #F658B3; /* Color de fondo */
+}
+
+.calculator {
+  text-align: center;
+  margin-top: 50px;
+   background-color: #D9A1CE; /* Color de fondo */
+}
+
+input {
+  padding: 10px;
+   background-color: #CAA1D9; /* Color de fondo */
+}
+
+button {
+
+  padding: 10px 20px;
+  background-color: #D9A1CE; /* Color de fondo */
+  color: black; /* Color del texto */
+  border: none;
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer;
+}
+/* Estilo cuando el cursor pasa sobre el botón */
+button:hover {
+  background-color: #E182CA;
+}
+
+label {
+  display: block; /* Hace que cada label ocupe una línea completa */
+  margin-bottom: 10px; /* Margen inferior para separación */
+  color: #7A25E9; /* Color del texto */
+  font-weight: bold; /* Texto en negrita */
+      background-color: #F658B3; /* Color de fondo */
+}
+h1 {
+  font-size: 24px; /* Tamaño del texto */
+  color: #333; /* Color del texto */
+  text-align: center; /* Centra el texto */
+  margin-bottom: 20px; /* Margen inferior para separación */
+     background-color: #F658B3; /* Color de fondo */ 
+}
+div {
+  font-size: 20px; /* Tamaño del texto */
+  color: #4CAF50; /* Color del texto */
+  text-align: center; /* Centra el texto */
+  margin-top: 20px; /* Margen superior para separación */
+    background-color: #F658B3; /* Color de fondo */
+}
